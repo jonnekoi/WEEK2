@@ -11,6 +11,7 @@
 [TEHTÄVÄ 5](https://users.metropolia.fi/~jonnekoi/WSK/WSK_week2/JS-Recap1/teht5/)
 
 **JS-RECAP 2**
+
 [TEHTÄVÄ 1](https://users.metropolia.fi/~jonnekoi/WSK/WSK_week2/JS-Recap2/teht1/)
 
 [TEHTÄVÄ 2](https://users.metropolia.fi/~jonnekoi/WSK/WSK_week2/JS-Recap2/teht2/)
