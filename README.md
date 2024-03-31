@@ -62,7 +62,7 @@ Yhteensä: 23p
 
 [TEHTÄVÄ 3](https://users.metropolia.fi/~jonnekoi/WSK/WSK_week2/JS-Recap3/t3/)
 
-[TEHTÄVÄ 4](https://users.metropolia.fi/~jonnekoi/WSK/WSK_week2/JS-Recap3/t1/)
+[TEHTÄVÄ 4](https://users.metropolia.fi/~jonnekoi/WSK/WSK_week2/JS-Recap3/t4/)
 
 PISTEET:
 
